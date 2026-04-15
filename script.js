@@ -25,3 +25,15 @@ console.log(x);   // 6
 
 console.log("5" == 5);
 console.log("5" === 5);
+
+let f = 10;
+
+if (f > 0) {
+    console.log("positive");
+} 
+else if (f < 0) {
+    console.log("negative");
+} 
+else {
+    console.log("neutral");
+}
