@@ -37,3 +37,19 @@ else if (f < 0) {
 else {
     console.log("neutral");
 }
+function add(){
+    console.log("ADD two numbers")
+}
+add()
+
+function greet(name)
+{
+    console.log(`hello${name}`)
+}
+greet("neha");
+function add(a, b) {
+  return a + b;
+}
+
+let result = add(5, 3);
+console.log(result);
