@@ -53,3 +53,11 @@ function add(a, b) {
 
 let result = add(5, 3);
 console.log(result);
+
+#arrays
+let arr=[1,2,3,4,5];
+console.log(arr[0]);
+let data=["neha",20,"btech"];
+data.push("csd");
+console.log(data.length);
+
